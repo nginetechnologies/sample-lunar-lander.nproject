@@ -1,0 +1,118 @@
+{
+    "guid": "0193d7e2-d9c1-77a3-cf5c-1b3af4a41206",
+    "source": "../SC_Weapons.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "0193d7e2-d9d4-71b8-0f7c-b9a0c6487842",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SC Weapons"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7e2-d9dc-7baa-0c26-5f0025f5cfaa",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pistol"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7e2-d9dd-7695-a089-33c2d755dd83"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7e2-d9de-7c9e-18ec-07a6c4e447e2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Revolver Barrel"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7e2-d9de-7ba8-628e-d58133495058"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7e2-d9de-7394-bf78-6bad589b8f59",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Revolver"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7e2-d9de-75a0-ae7a-1bfee49eccad"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7e2-d9de-7ea3-54e2-feb669ce6d2a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rifle"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7e2-d9de-7ab6-8094-b59799ccea4a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7e2-d9de-7081-6a90-8a5a0004b0ff",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SMG Ammo"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7e2-d9de-76bd-5ae9-8b7e314d262f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7e2-d9de-798a-e5bd-c1235ce46050",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sniper"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7e2-d9df-77a5-ed00-51681b3d7486"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193d7e2-d9df-7cb1-ac90-a6aed9dbd5c4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sniper Ammo"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193d7e2-d9df-71be-6439-b271840d9695"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "0193d7e2-d9c1-77a3-cf5c-1b3af4a41206"
+    },
+    "dependencies": [
+        "0193d7e2-d9dd-7695-a089-33c2d755dd83",
+        "0193d7e2-d9de-7ba8-628e-d58133495058",
+        "0193d7e2-d9de-75a0-ae7a-1bfee49eccad",
+        "0193d7e2-d9de-7ab6-8094-b59799ccea4a",
+        "0193d7e2-d9de-76bd-5ae9-8b7e314d262f",
+        "0193d7e2-d9df-77a5-ed00-51681b3d7486",
+        "0193d7e2-d9df-71be-6439-b271840d9695"
+    ]
+}
